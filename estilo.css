@@ -1,0 +1,167 @@
+body{
+    margin: 0%;
+}
+
+.menu{
+    position:relative;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 18px;
+    height: 60px;
+    font-family: 'Indie Flower', cursive;
+}
+.botao{
+    position:absolute;
+    right: 15%;
+    top: 19px;
+}
+.nome{
+    font-size: 20px;
+}
+.botao-color{
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    color: white;
+    height: 35px;
+    width: 100px;
+    border-color: #0d6efd;
+    border-radius: 5px;
+}
+.div-centro{
+    background-image: url('https://willerk.vteximg.com.br/arquivos/ids/184470-0-0/Papel-de-parede-Escape-L604-01.jpg?v=637015837439800000');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    padding-top: 100px;
+    font-family: 'Indie Flower', cursive;
+}
+.texto1{
+    color: black;
+    font-size: 28px;
+}
+.a {
+    text-shadow: 0 0 0.2em #87F, 0 0 0.2em #87F,
+        0 0 0.2em #87F
+}
+.email{
+    width: 250px;
+    height: 35px;
+    border-radius: 5px;
+    margin-right: 10px;
+}
+.div-botao{
+    margin-top: 15px;
+}
+.div-2{
+    text-align: center;
+    padding-top: 120px;
+    font-size: 18px;
+    margin-right: 70px;
+    margin-left: -33px;
+    font-family: 'Indie Flower', cursive;
+}
+.tamanho{
+    font-size: 80px;
+    color: #87F;
+}
+.segunda{
+    height: 460px;
+    display: flex;
+    flex-direction: row;
+}
+.terceira{
+    display: flex;
+    flex-direction: row;
+    height: 460px;
+    background-color: white;
+    font-size: 18px;
+    font-family: 'Indie Flower', cursive;
+}
+.terceira span{
+    font-size: 28px !important;
+    font-weight: bold;
+}
+.terceira p {
+    padding: 120px;
+}
+.w-50{
+    width: 50%;
+}
+.imagem {
+    background-image: url('https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-1.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.imagem-two{
+    background-image: url('https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-2.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.imagem-three{
+    background-image: url('https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-showcase-3.jpg');
+    background-position: center;
+    background-size: cover;
+}
+.w-20{
+    width: 20%;
+}
+.avatar {
+    width: 192px;
+    height: 192px;
+    border-radius: 100%;
+    box-shadow: 10px 10px 5px grey;
+}
+.quarta{
+    height: 640px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    font-size: 18px;
+    font-family: 'Indie Flower', cursive;
+}
+.quarta h2 {
+    padding-top: 120px;
+}
+.quarta span {
+    font-size: 22px !important;
+    font-weight: bold;
+}
+.quinta {
+    background-image: url('https://willerk.vteximg.com.br/arquivos/ids/184470-0-0/Papel-de-parede-Escape-L604-01.jpg?v=637015837439800000');
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 300px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.form-quinta-div {
+    margin-top: 100px;
+} 
+.texto{
+    margin-top:120;
+    color:black;
+    font-size: 15px;
+    font-family: 'Indie Flower', cursive;
+}
+.rodape{
+    display: flex;
+    flex-direction: row ;
+    height: 180px;
+}
+.rodape .w-50 {
+    text-align: center;
+    padding-top: 60px;
+}
+
+.rodape .w-50 i {
+   font-size: 27px;
+   color: black;
+   margin-right: 20px;
+}
+.rodape .w-50 i:hover {
+    color: #0d6efd;
+ }
